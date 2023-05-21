@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "botdelive/botdelive",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BotDelive/botdelivePHP.git",
+                "reference": "4935956debde905dad7dd08c6fbbd0d0a3fabb47"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BotDelive/botdelivePHP/zipball/4935956debde905dad7dd08c6fbbd0d0a3fabb47",
+                "reference": "4935956debde905dad7dd08c6fbbd0d0a3fabb47",
+                "shasum": ""
+            },
+            "time": "2018-09-14T19:23:36+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "BotDelive\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Farid Babayev",
+                    "email": "farid.b@code.edu.az"
+                }
+            ],
+            "description": "BotDelive is a Push Notification and 2-factor authentication API service that works over the chat bots (Telegram and Messenger).",
+            "support": {
+                "issues": "https://github.com/BotDelive/botdelivePHP/issues",
+                "source": "https://github.com/BotDelive/botdelivePHP/tree/master"
+            },
+            "install-path": "../botdelive/botdelive"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
